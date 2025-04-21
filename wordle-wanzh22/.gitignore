@@ -1,0 +1,14 @@
+# Rust / Cargo build artifacts
+/target/
+
+# IDE / Editor configuration
+.vscode/
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor backup files
+*~
+*.swp
+*.swo
